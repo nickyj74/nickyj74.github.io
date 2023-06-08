@@ -1,0 +1,119 @@
+html {
+  background-color: #f4f1f1;
+  font-family: Montserrat, Sans-serif;
+}
+
+header {
+  margin: auto;
+}
+
+nav {
+ 
+}
+
+h1 {
+  color: maroon;
+  text-align: center;
+  font-family: Parisienne;
+  font-size: 48px;
+}
+
+h2 {
+  color: teal;
+  font-family: Parisienne;
+  font-size: 30px;
+  text-align: left;
+}
+
+.colour {
+  color: black;
+}
+
+div {
+  text-align: center;
+}
+
+
+/* Start of Colours Styling*/
+.container {
+  background-color: cornsilk;
+  height: 140px;
+  width: 100%;
+  margin: auto;
+  color: black;
+}
+.container2 {
+  background-color: maroon;
+  height: 140px;
+  width: 100%;
+  margin: auto;
+  color: white;
+}
+.container3 {
+  background-color: teal;
+  height: 140px;
+  width: 100%;
+  margin: auto;
+  color: black;
+}
+
+.container4 {
+  background-color: black;
+  height: 140px;
+  width: 100%;
+  margin: auto;
+  color: white;
+}
+
+
+/*Start of Fonts Styling*/
+
+.fonts {
+  color: black;
+}
+
+.montserratreg {
+  font-family: Montserrat;
+  color: black;
+}
+
+.montserratita {
+  font-family: Montserrat;
+  font-style: italic;
+  color: black;
+}
+
+.montserratbold {
+  font-family: Montserrat;
+  font-weight: bold;
+  color: black;
+}
+
+.parisienne {
+  font-family: Parisienne;
+  color: black;
+  font-size: 24px;
+}
+
+/*Start of Intended Use Styling*/
+
+.use {
+  font-family: Montserrat;
+  color: black;
+}
+
+.style {
+  font-family: Montserrat;
+  color: black;
+}
+
+li {
+  font-family: Montserrat;
+  color: black;
+}
+
+
+
+footer {
+
+}
