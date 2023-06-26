@@ -1,0 +1,89 @@
+body {
+  font-family: 'Roboto' 'Sans Serif';
+  font-size: 16px;
+  margin: 0;
+  background-color: antiquewhite;
+  color: brown;
+  display: block;
+}
+
+div {
+  display: block;
+}
+
+p {
+  font-family: 'Roboto', 'Sans serif';
+  font-weight: light;
+  color: sienna;
+}
+
+a {
+ color: sienna;
+ text-decoration: none;
+}
+
+li {
+  list-style-type: none;
+  display: inline-block;
+  padding: 2.2rem;
+  width: 15%;
+}
+
+img {
+  align-content: center;
+  height: auto;
+  width: 100%;
+  margin: 2rem;
+  padding: 0;
+}
+
+span {
+  font-weight: bold;
+  font-size: 2rem;
+  color: sienna;
+  display: block;
+  align-content: center;
+}
+
+.nav {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  color: sienna;
+  background-color: burlywood;
+  text-decoration: none;
+}
+
+.name {
+  height: 5rem;
+  width: 100%;
+  text-align: center;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-position: center;
+}
+
+.container {
+  padding: 3rem;
+}
+
+
+footer {
+  height: 100px;
+  background-color: burlywood;
+  text-align: center;
+  padding: 1rem;
+}
+
+@media only screen and (max-width:480px){
+  img {
+    max-height: auto;
+    max-width: 200px;
+  }
+}
+
+@media only screen and (mad-width: 768px) {
+  img {
+    max-height: auto;
+    max-width: 300px;
+  }
+}
